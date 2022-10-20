@@ -1,0 +1,13 @@
+G:\Files\Development\C#\Desktop Applications\ResistorCalculator\bin\Debug\ResistorCalculator.exe
+G:\Files\Development\C#\Desktop Applications\ResistorCalculator\bin\Debug\ResistorCalculator.pdb
+G:\Files\Development\C#\Desktop Applications\ResistorCalculator\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Files\Development\C#\Desktop Applications\ResistorCalculator\obj\x86\Debug\MainWindow.baml
+G:\Files\Development\C#\Desktop Applications\ResistorCalculator\obj\x86\Debug\MainWindow.g.cs
+G:\Files\Development\C#\Desktop Applications\ResistorCalculator\obj\x86\Debug\App.g.cs
+G:\Files\Development\C#\Desktop Applications\ResistorCalculator\obj\x86\Debug\ResistorCalculator_MarkupCompile.cache
+G:\Files\Development\C#\Desktop Applications\ResistorCalculator\obj\x86\Debug\ResistorCalculator.g.resources
+G:\Files\Development\C#\Desktop Applications\ResistorCalculator\obj\x86\Debug\ResistorCalculator.Properties.Resources.resources
+G:\Files\Development\C#\Desktop Applications\ResistorCalculator\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Files\Development\C#\Desktop Applications\ResistorCalculator\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Files\Development\C#\Desktop Applications\ResistorCalculator\obj\x86\Debug\ResistorCalculator.exe
+G:\Files\Development\C#\Desktop Applications\ResistorCalculator\obj\x86\Debug\ResistorCalculator.pdb
